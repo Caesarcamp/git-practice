@@ -1,0 +1,5 @@
+ECHO est� activado.
+Name: Ironhaker
+Age: 37
+Favorite Color: Yellow
+https://github.com/Caesarcamp/git-practice.git
